@@ -23,6 +23,19 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+15cc8295ea6be30f27f0b4f60af639a3:
+  key: bb0b85aecb6d2baed1befc7024e89f26e6cb9e848e90d1c1acc827c6cc33619b
+  source: Nintendo
+  tags:
+    - Mario
+    - Kart
+    - Nintendo
+    - Luigi
+    - Yoshi
+    - Game
+  original: true
+  animated: true
+
 3273093448c29f711eda842657b0e71e:
   key: 8330cbaeaae44e587ea2a0fa4577240bd2aa423f6f600784e6e5a51cdca046aa
   source: Yara
